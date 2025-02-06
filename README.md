@@ -1,6 +1,6 @@
 # Where has the code gone? 
-
-## If you're looking for code that was on my profile check this repo:
+ - If you can't find code that was previously on my profile then check this repo.
+---
 
 MenuBot Repos were moved to - https://bitbucket.org/sidekickapp_/workspace/projects/MNBT_PBLC
 

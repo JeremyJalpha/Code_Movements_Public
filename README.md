@@ -2,6 +2,8 @@
  - If you can't find code that was previously on my profile then check this repo.
 ---
 
+SidekickApp_MobileAndServer_Pblc was moved to - https://bitbucket.org/sidekickapp_/sidekickapp_mas_pblc/src/Develop/
+
 MenuBot Repos were moved to - https://bitbucket.org/sidekickapp_/workspace/projects/MNBT_PBLC
 
 Which includes the following repos:
